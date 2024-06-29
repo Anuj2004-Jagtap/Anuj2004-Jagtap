@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anuj2004-Jagtap
+- 👋 Hi, I’m @Anuj2004-Jagtap.
 - 👀 I’m interested in Web Developement .
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on MERN Stack Projects
