@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Anuj2004-Jagtap.
-- 👀 I’m interested in Web Developement .
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m An Aspiring Mern Stack Develoepr.
+- 🌱 I’m Currently Learning BackEnd And Building Frontend Projects
 - 💞️ I’m looking to collaborate on MERN Stack Projects
-- 📫 How to reach me Linkln
-- ⚡ Fun fact: I Am Batman
+- 📫 You Can Connect With On [Linkdln](linkedin.com/in/anuj-jagtap-66a23429a)
+- 💻 My Portfolio [Portfolio](https://anuj-portfolio-sandy.vercel.app/)
+- ⚡ Fun fact: I Am Batman 🦇
 - 
 
 <!---
