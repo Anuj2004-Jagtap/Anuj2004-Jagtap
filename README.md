@@ -5,7 +5,7 @@
 - 📫 You Can Connect With On [Linkdln](linkedin.com/in/anuj-jagtap-66a23429a)
 - 💻 My Portfolio [Portfolio](https://anuj-portfolio-sandy.vercel.app/)
 - ⚡ Fun fact: I Am Batman 🦇
-- 
+  
 
 <!---
 Anuj2004-Jagtap/Anuj2004-Jagtap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
